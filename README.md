@@ -1,5 +1,5 @@
 # EdgarAllanPoe_stylometry
-##This repository contains materiales that have been used in order to analyze 66 tales written by Edgar Allan Poe through *stylometry* with the aim to check if the results corresponded to the classification of these proposed by Wikipedia.##  
+##This repository contains materiales that have been used in order to analyze 66 tales written by Edgar Allan Poe through *stylometry* with the aim to check if the results corresponded to the classification of these proposed by Wikipedia.  
   
 Materiales are:  
 - EAP_texts: folder containing all the tales taken into account  
