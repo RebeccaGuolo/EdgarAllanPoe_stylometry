@@ -9,6 +9,6 @@ Materiales are:
   
 Firstly, texts' titles have been renamed according to Wikipedia's classfication; so texts that start with **"T_"** have been labled as Terror tales, with **"H_"** as Humoristic, with **"VT_"** as Various Themes and with **"R_"** as Reasoning.  
 After the creation of the corpus, preparations for the sylometric analysis have been arranged, like assignation of IDs, exclusion of too short texts and tokenization.  
-The stylometric analysis has been carried out by the package *stylo*, which gave a dendogram, a consensus tree and a netwrok as results.  
+The stylometric analysis has been carried out by the package *stylo*, which gave a dendogram, a consensus tree and a netwrok as results. Not only function words have been taken in consideration in the analysis through *stylo*, but also lexical ones (see the setting "mfw", meaning Most Frequent Words).  
 In order to obtain a clearer result, *Gephi* has been employed: after the importation of .csv files of nodes and edges, Force atlas 2 has been used as layout, corrected then with Expansion and Label Adjust in favour of more legibility. Since the number of texts was quite big, it has been preferred not to show them in proportional size always to provide legibility. The Average of weighted degree has been made too and it has been taken in consideration in the graphical representation. The colors of the edges are only four, as the categories according to Wikipedia, in order to have an evident comparison between that classifiaction and the results of stylometry.  
 
